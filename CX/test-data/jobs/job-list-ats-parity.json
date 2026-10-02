@@ -1,0 +1,42 @@
+{
+    "portalPath": "playwrightqa/CorporateCareerPortal2",
+    "defaultView": {
+        "knownOpenJob": {
+            "jobId": "173194",
+            "jobTitle": "Playwright CX Test Quick Apply"
+        }
+    },
+    "locationFilter": {
+        "country": "United States",
+        "knownNonUsLocationMarkers": [
+            "Tijuana",
+            "Ciudad de México",
+            "Ecatepec de Morelos",
+            "Nantes",
+            "Bordeaux",
+            "Grenoble",
+            "Frankfurt",
+            "Leverkusen",
+            "Shanghai",
+            "Bejing",
+            "London",
+            "Copenhagen",
+            "Edmonton"
+        ]
+    },
+    "categoryFilter": {
+        "category": "Human Resources"
+    },
+    "positionTypeFilter": {
+        "positionType": "Full-Time/Regular",
+        "sampleSize": 5
+    },
+    "emptyState": {
+        "noMatchKeyword": "zzznosuchjobinthiscatalogzzz12345",
+        "noResultsMessage": "Can't find results that match"
+    },
+    "keywordSearch": {
+        "keyword": "Fee Agency",
+        "expectedJobTitle": "Playwright Fee Agency Job Test"
+    }
+}

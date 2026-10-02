@@ -1,0 +1,29 @@
+{
+    "tiles": [
+        "Hires",
+        "Applications Per Hire",
+        "Average Days to Hire",
+        "Offers Extended",
+        "Open Jobs",
+        "Average Days Open"
+    ],
+    "charts": [
+        "Pipeline Efficiency Of Hiring",
+        "Recruitment Funnel",
+        "Top 5 Applicant Sources",
+        "Hires per Month",
+        "Resume Review/Forward Resume",
+        "Shared Hiring Stages"
+    ],
+    "workflow": "Full-Time Workflow",
+    "workflowId": "1",
+    "jobsCreatedSinceOptionIndex": 1,
+    "jobsCreatedSinceMonths": "6",
+    "filterCarryThroughTile": "Hires",
+    "averageDaysToHireTile": "Average Days to Hire",
+    "recruiterName": "PWRecruit Test",
+    "viewAsRecruiter": {
+        "id": "951878",
+        "name": "Susan Harris"
+    }
+}

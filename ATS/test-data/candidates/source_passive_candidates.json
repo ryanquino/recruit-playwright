@@ -1,0 +1,14 @@
+{
+   "job_title" : "Software QA Engineer",
+   "excluded_job_title" : "Project Manager",
+   "skills" : "Playwright",
+   "location" : "Alaska",
+   "degree_required" : "Bachelor's",
+   "school_name" : "Stanford",
+   "companies" : "Google",
+   "excluded_companies" : "Yahoo",
+   "industries" : "Accounting",
+   "highlights" : "More Likely to Move",
+   "testJob" : "Playwright CRP Job Test",
+   "saved_search_name" : "PlaywrightSavedSearchTest"
+}

@@ -1,0 +1,77 @@
+{
+    "jobId": "173194",
+    "jobTitle": "Playwright CX Test Quick Apply",
+    "postedJobTitle": "Playwright CX Test Quick Apply",
+    "trackingCode": "173194-000",
+    "postedDate": "4/30/2026",
+    "expectedStartingDate": "8/25/2026",
+    "numberOfPositions": "10",
+    "jobStatus": "Normal - Int./Ext. Applicants",
+    "positionType": "Full-Time/Regular",
+    "category": "Accounting and Finance",
+    "industry": "Not Applicable",
+    "hiringManager": "Relicx Test",
+    "companyLocation": "Boston",
+    "richText": "Playwright Rich Text Field",
+    "jobLevel": "Executive",
+    "jobDuration": "Regular/At-Will",
+    "yearsOfExperience": "More than 15 Years",
+    "levelOfEducation": "4 Year Degree",
+    "requiredSkills": "Playwright CX Test Quick Apply",
+    "requiredExperience": "Playwright CX Test Quick Apply",
+    "jobDescription": "Playwright CX Test Quick Apply",
+    "hiringWorkflow": "Full-Time Workflow",
+    "evergreenJob": "No",
+    "location": {
+        "country": "United States",
+        "addressLine1": "Playwright CX Test Quick Apply Address Line 1",
+        "addressLine2": "Playwright CX Test Quick Apply Address Line 2",
+        "city": "Playwright City",
+        "state": "Hawaii",
+        "stateAbbreviation": "HI",
+        "zip": "12345",
+        "jobLocation": "Playwright City, Hawaii, United States",
+        "additionalLocations": "100 South Wacker Drive Suite 425, Chicago, Illinois, United States",
+        "allLocations": [
+            "Playwright CX Test Quick Apply Address Line 1, Playwright CX Test Quick Apply Address Line 2, Playwright City, Hawaii, United States",
+            "100 South Wacker Drive Suite 425, Chicago, Illinois, United States"
+        ]
+    },
+    "positionRequirements": {
+        "travel": "No Travel Required",
+        "perDiemIncluded": "Yes",
+        "minimumSalary": "$10,000.00",
+        "maximumSalary": "$20,000.00",
+        "salaryRange": "$10,000.00 - $20,000.00",
+        "salaryType": "Monthly",
+        "salaryCurrency": "USD"
+    },
+    "compliance": {
+        "eeoCategory": "Professionals"
+    },
+    "employeeReferrals": {
+        "listOnEmployeeReferrals": "Yes",
+        "referralBonus": "0.00",
+        "referralPoints": "0",
+        "hotJob": "No"
+    },
+    "customFields": {
+        "jobGrade": "1000",
+        "exemptionStatus": "non-exempt",
+        "collectEEO": "Yes",
+        "text": "Playwright Custom Field Text",
+        "textarea": "Playwright Custom Field Textarea",
+        "dropdown": "Option 1",
+        "multiselect": "Option 1, Option 2"
+    },
+    "administration": {
+        "recruitingManager": "Relicx Test",
+        "assignedRecruiter": "Susan Harris",
+        "repliesEmailedTo": "Notifications Disabled"
+    },
+    "applyWithIndeed": {
+        "portalId": "2577",
+        "portalPath": "/playwrightqa/CorporateCareerPortal",
+        "buttonText": "Apply with Indeed"
+    }
+}

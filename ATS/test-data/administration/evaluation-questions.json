@@ -1,0 +1,30 @@
+{
+  "category": {
+    "name": "Playwright Category",
+    "description": "This is a sample automated playwright description",
+    "updatedDescription": "This is a sample automated playwright description updated",
+    "updatedCategoryName": "Playwright Category Updated"
+  },
+  "questions": {
+    "yesNoQuestionName": "Playwright Yes No Question",
+    "yesNoEvaluation": "100",
+    "yesEvaluation": "100",
+    "noEvaluation": "0",
+    "categoryName": "Playwright Category",
+    "freeTextQuestionName": "Playwright Free Text Question",
+    "freeTextEvaluation": "100",
+    "multipleChoiceQuestionName": "Playwright Multiple Choice Question",
+    "firstChoiceName": "answer1",
+    "secondChoiceName": "answer2",
+    "thirdChoiceName": "answer3",
+    "fourthChoiceName": "answer4",
+    "firstChoiceEvaluation": "100",
+    "secondChoiceEvaluation": "0",
+    "thirdChoiceEvaluation": "0",
+    "fourthChoiceEvaluation": "0"
+  },
+  "criteria": {
+    "name": "Playwright Ranking Criteria",
+    "updatedCriteriaName": "Playwright Ranking Criteria Updated"
+  }
+}

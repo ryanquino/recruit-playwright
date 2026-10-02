@@ -1,0 +1,9 @@
+{
+    "name" : "Playwright Saved Search",
+    "allColumnLabels" : [
+        "All Locations", "Business Unit", "City", "Closed Date", "Country", "Date Created", "Days Old",
+        "Department", "Evergreen Job", "Farthest Stage", "Hiring Manager", "Last Hire Date", "Last Modified",
+        "Original Posting Date", "Positions Filled", "Position Type", "Posted Date", "Posted Job Title",
+        "Priority", "Pipeline", "Recruiter", "Recruiting Manager", "Review Requests", "State", "Status", "Workflow"
+    ]
+}

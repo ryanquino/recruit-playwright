@@ -1,0 +1,13 @@
+{
+    "candidateName" : "Playwright Playwright",
+    "jobTitle" : "Playwright Test Job",
+    "tag" :"PlaywrightTag",
+    "comment" : "This is a playwright comment",
+    "dispositionTestCandidate" : "Playwright Disposition Test",
+    "hiringStageCandidate" : "Playwright Test Resume Review",
+    "defaultHiringStage" : "3rd Party Sourced",
+    "changeHiringStage" : "Talent Community",
+    "existingTagPartial" : "Playwright",
+    "newTag" : "PlaywrightReplaceAllTag"
+
+}

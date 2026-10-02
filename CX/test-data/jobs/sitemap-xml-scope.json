@@ -1,0 +1,14 @@
+{
+    "portals": [
+        {
+            "name": "Corporate Career Portal",
+            "tenant": "playwrightqa",
+            "tenantPortalPath": "playwrightqa/CorporateCareerPortal"
+        },
+        {
+            "name": "Hourly Career Portal",
+            "tenant": "qarecruiting01",
+            "tenantPortalPath": "qarecruiting01/HourlyCareerPortal"
+        }
+    ]
+}

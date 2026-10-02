@@ -1,0 +1,51 @@
+{
+    "jobTitle": "Playwright CX Test Quick Apply",
+    "firstName": "CX First",
+    "lastName": "CX Last",
+    "email": "playwrightCX@rival-hr-qa.com",
+    "primaryPhone": "2015551234",
+    "country": "US",
+    "address": "Playwright Address",
+    "postalCode": "12345",
+    "resumeFreeText": "Playwright Resume Free Text",
+    "howDidYouHearAboutUs": "Web Search",
+    "expectedLabels": {
+        "fr": {
+            "quickApply": {
+                "firstName": "* Prénom",
+                "lastName": "* Nom de famille",
+                "email": "* Adresse e-mail"
+            },
+            "configuredApply": {
+                "firstName": "* Prénom",
+                "lastName": "* Nom",
+                "email": "* Adresse e-mail"
+            }
+        },
+        "de": {
+            "quickApply": {
+                "firstName": "* Vorname",
+                "lastName": "* Nachname",
+                "email": "* E-Mail-Adresse"
+            },
+            "configuredApply": {
+                "firstName": "* Vorname",
+                "lastName": "* Nachname",
+                "email": "* E-Mail-Adresse"
+            }
+        },
+        "es": {
+            "quickApply": {
+                "firstName": "* Nombre",
+                "lastName": "* Apellidos",
+                "email": "* Dirección de correo electrónico"
+            },
+            "configuredApply": {
+                "firstName": "* Nombre",
+                "lastName": "* Apellido",
+                "email": "* Dirección de correo electrónico"
+            }
+        }
+    },
+    "notes": "Real, live-verified translated copy, not placeholder/guessed text. fr/de quickApply+configuredApply and es.quickApply captured 2026-08-27 by enabling the language via CX Admin's Manage Languages page on the shared CorporateCareerPortal(2)/portalId 2577/2582. es.configuredApply captured 2026-09-04 from the dedicated SpanishCareerPortal (portalId 2612) — note lastName is singular \"Apellido\" here vs. quickApply's plural \"Apellidos\"; that's the real site text, not a typo. See CX/tests/fixtures/application-fixture.js for the dedicated French/German/Spanish portal fixtures used instead of browser-locale simulation."
+}

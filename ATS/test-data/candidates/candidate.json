@@ -1,0 +1,51 @@
+{
+    "attachments": {
+      "attached_file_description": "Attached File Description",
+      "associate_with_job_posting": "Associate With Job Posting"
+    },
+    "resume_info": {
+      "select_source": "Silkroad Candidate Experience",
+      "check_existing_employee": false,
+      "full_name": {
+        "first_name": "Playwright Upload",
+        "middle_name": "Middle",
+        "last_name": "Playwright"
+      },
+      "skill_set": "playwright, test",
+      "location": {
+        "country": "United States",
+        "address": "Playwright Address",
+        "address_continued": "Playwright Address cont",
+        "city": "Playwright city",
+        "state": "US-IL",
+        "zip_code": "12345"
+      },
+      "contact": {
+        "email": "playwrighttest@rival-hr-qa.com",
+        "primary_phone": "2015551234",
+        "secondary_phone": "2015551233"
+      },
+      "degree_level": "5",
+      "college_majors": "Playwright",
+      "professional_certifications": "Playwright",
+      "date_available": "12/12/2024",
+      "current_job_type": "1",
+      "desired_job_type": "1",
+      "career_level": "9",
+      "salary_requirement_expectations": "100000",
+      "willing_to_relocate": "Yes",
+      "years_of_experience": "10"
+    },
+    "work_authorization": "Candidate's status to work in this country is unknown.",
+    "security_clearance": "Yes",
+    "resume_content": "this is a playwright test",
+    "notes_comments": "this is a playwright test",
+    "basic_manual_entry": {
+      "candidate_name": "Playwright Candidate",
+      "email": "playwright@rival-hr-qa.com"
+    },
+    "addToPipeline": {
+      "candidate_name": "Playwright Pipeline",
+      "email": "playwrightpipeline@rival-hr-qa.com"
+    }
+  }
