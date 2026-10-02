@@ -1,0 +1,15 @@
+{
+    "candidateName" : "Playwright Test Resume Review",
+    "jobTitle" : "Playwright Deactivation Test",
+    "comment" : "playwright comment test",
+    "genAi" : {
+        "testJob" : "Generative AI",
+        "emailSubject": "Curious About a New Career Challenge? We've Got Something Special!",
+        "deleteSuccessAlert": "All generated personalized email have been deleted.",
+        "sendAllSuccessAlert" : "ROSI-generated email has been sent.",
+        "editSuccessAlert" : "Changes Saved",
+        "deleteEmailDraftSuccessAlert": "The ROSI-generated email has been deleted.",
+        "sendEmailDraftSuccessAlert" : "ROSI-generated email has been sent.", 
+        "sendAllOnReviewDraftsSuccessAlert" : "ROSI-generated emails have been sent."
+    }
+}

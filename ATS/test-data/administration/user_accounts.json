@@ -1,0 +1,51 @@
+{
+    "newUser" : {
+      "activeStatus": "Active",
+      "firstName": "Playwright User",
+      "lastName": "Playwright",
+      "phone": "2225551234",
+      "emailAddress": "playwright@rival-hr-qa.com",
+      "username": "playwrightuser",
+      "password": "playwright",
+      "singleSignOnId": "test",
+      "role": "2",
+      "permissions": ["2014", "1010", "6"],
+      "singleSignOn": "1",
+      "language": "1",
+      "country": "United States",
+      "timeZone": "America/Los_Angeles",
+      "updatedEmail": "playwright+updated@rival-hr-qa.com"
+    },
+    "updateUser" :{
+      "activeStatus": "Active",
+      "firstName": "Playwright Update",
+      "lastName": "Test Data",
+      "phone": "2225555555",
+      "emailAddress": "playwright+updatetestdata@rival-hr-qa.com",
+      "username": "playwrightupdatetestdata",
+      "singleSignOnId": "test2",
+      "role": "2",
+      "permissions": ["1017", "1010", "1018"],
+      "singleSignOn": "1",
+      "language": "1",
+      "country": "United States",
+      "timeZone": "America/Los_Angeles",
+      "updatedEmail": "playwright+hasbeenupdated@rival-hr-qa.com"
+    },
+    "activeUser" :{
+      "activeStatus": "Active",
+      "firstName": "Playwright Active",
+      "lastName": "Test Data",
+      "phone": "2225556666",
+      "emailAddress": "playwright+activetestdata@rival-hr-qa.com",
+      "username": "playwrightactivetestdata",
+      "singleSignOnId": "test3",
+      "role": "2",
+      "permissions": ["2014", "1010", "6"],
+      "singleSignOn": "1",
+      "language": "1",
+      "country": "United States",
+      "timeZone": "America/Los_Angeles"
+    }
+}
+  

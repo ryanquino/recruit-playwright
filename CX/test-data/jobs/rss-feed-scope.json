@@ -1,0 +1,14 @@
+{
+    "feeds": [
+        {
+            "name": "Corporate Career Portal",
+            "feedPath": "/playwrightqa/CorporateCareerPortal/rss",
+            "tenantPortalPath": "playwrightqa/CorporateCareerPortal"
+        },
+        {
+            "name": "Hourly Career Portal",
+            "feedPath": "/qarecruiting01/HourlyCareerPortal/rss",
+            "tenantPortalPath": "qarecruiting01/HourlyCareerPortal"
+        }
+    ]
+}

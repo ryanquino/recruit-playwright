@@ -1,0 +1,17 @@
+{
+    "emailTemplate": {
+        "title" : "Playwright New Batch Email Template",
+        "subject" : "Playwright New Batch Email Template",
+        "body" : "This is an automated creation of a batch email tempate."
+    },
+    "emailTemplateUpdate": {
+        "title" : "Playwright Email Template for Update",
+        "subject" : "Playwright Email Template for Update",
+        "body" : "A test data for Playwright automation for updating email template"
+    },
+    "emailTemplateUpdateROSI": {
+        "title" : "Playwright Email Template for Update",
+        "subject" : "Playwright Email Template for Update",
+        "body" : "$recruitername$"
+    }
+}

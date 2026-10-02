@@ -1,0 +1,33 @@
+{
+    "keyword" : "Playwright",
+    "knownJobTitleForKeyword" : "Playwright CX Test Quick Apply",
+    "noMatchKeyword" : "zzznosuchjobinthiscatalogzzz",
+    "country" : "United States",
+    "category" : "Human Resources",
+    "categoryDataValue" : "105",
+    "positionType" : "Full-Time/Regular",
+    "jobAlertDetails" : {
+        "jobTitle" : "Playwright CX Job Title",
+        "emailAddress" : "playwrightjobalert@rival-hr-qa.com",
+        "frequency" : "Monthly"
+    },
+    "deactivatedJob" : {
+        "jobTitle" : "Playwright Deactivation Test",
+        "portalPath" : "playwrightqa/CorporateCareerPortal2",
+        "notFoundMessage" : "We apologize for the inconvenience, but we cannot find this position. Please view our current openings here."
+    },
+    "nonOpenJobs" : {
+        "onHold" : {
+            "jobId" : "173708",
+            "jobTitle" : "Playwright On Hold Job Posting"
+        },
+        "closed" : {
+            "jobId" : "173710",
+            "jobTitle" : "Playwright Closed Job"
+        },
+        "limited" : {
+            "jobId" : "173709",
+            "jobTitle" : "Playwright Limited Job Posting"
+        }
+    }
+}

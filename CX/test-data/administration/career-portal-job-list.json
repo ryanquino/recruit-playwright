@@ -1,0 +1,24 @@
+{
+    "careerPortalName": "Corporate Career Portal",
+    "portalId": 2577,
+    "richTextSample": "PW Job List Rich Text",
+    "groupByOptions": {
+        "nothing": "Nothing",
+        "category": "Category",
+        "categoryHierarchy": "Category (display hierarchy)"
+    },
+    "orderByOptions": {
+        "postingDateAsc": "Posting Date ASC",
+        "postingDateDesc": "Posting Date DESC",
+        "jobTitleAsc": "Job Title ASC",
+        "jobTitleDesc": "Job Title DESC"
+    },
+    "resultsPerPageOptions": {
+        "ten": "10",
+        "twentyFive": "25"
+    },
+    "jobLocationFormatOptions": {
+        "cityState": "City, State Code - (ex: Miami, FL)",
+        "cityCountryCode": "City, Country Code - (ex: Miami, US)"
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "name": "Transform Codegen on Save",
+  "description": "Automatically transforms Playwright codegen files into Page Object Model structure with fixtures, tests, and test data when a codegen file is saved",
+  "version": "1.0.0",
+  "when": {
+    "type": "fileEdited",
+    "patterns": [
+      "codegen-files/*.js"
+    ]
+  },
+  "then": {
+    "type": "askAgent",
+    "prompt": "A codegen file was just saved. Please transform it into our framework structure following these steps:\n\n1. Read the codegen file that was just saved\n2. Read the transformation instructions from codegen-transformation-prompt.md\n3. Apply the transformation rules to generate:\n   - Page Object class (ATS/pages/[feature]/[feature-name].page.js)\n   - Fixture file (ATS/tests/fixtures/[feature]-fixture.js) - only if new feature\n   - Test file (ATS/tests/[feature]/[feature-name].spec.js)\n   - Test data (ATS/test-data/[feature]/[feature-name].json)\n\n4. Follow all framework patterns:\n   - Page objects extend BasePage\n   - Use semantic locators (getByRole, getByLabel, getByText)\n   - Remove login steps (handled by base-fixture)\n   - Extract test data to JSON\n   - Add TestRail case IDs to test names\n\n5. Create all the files with proper structure\n\nAfter transformation, summarize what was created and ask if I want to make any adjustments."
+  }
+}
+

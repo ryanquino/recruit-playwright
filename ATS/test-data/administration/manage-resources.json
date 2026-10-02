@@ -1,0 +1,10 @@
+{
+    "resourceType" : "Job Fair-1",
+    "resourceName" : "Playwright New Resource",
+    "startDate" : "1/1/2026",
+    "expirationDate" : " 1/1/2027",
+    "cost" : "1000",
+    "hdyhau" : "Playwright New HDYHAU Option",
+    "resourceUpdate" : "Playwright Update Resource",
+    "hdyhauUpdate" : "Playwright Update HDYHAU Option"
+}

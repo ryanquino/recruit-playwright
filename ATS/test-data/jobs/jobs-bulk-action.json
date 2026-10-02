@@ -1,0 +1,30 @@
+{
+    "default" : {
+        "title1" : "Playwright Jobs Bulk Action Test",
+        "recruiter" : "Relicx Test",
+        "recruitingManager" : "Relicx Test",
+        "hiringManager" : "Relicx Test",
+        "repliesEmailTo" : "Notifications Disabled",
+        "businessUnit" : "Business Administration",
+        "department" : "IT Operations",
+        "category" : "Accounting and Finance",
+        "companyLocation" : "Chicago",
+        "additionalLocation" : "",
+        "feeagency" : "",
+        "jobTitleForDeactivation" : "Playwright Deactivation Test"
+    },
+    "updateTo" : {
+        "title" : "Playwright Jobs Bulk Action Test",
+        "recruiter" : "Susan Harris",
+        "recruitingManager" : "Susan Harris",
+        "hiringManager" : "Susan Harris",
+        "repliesEmailTo" : "Susan Harris",
+        "businessUnit" : "Merchandising",
+        "department" : "Research & Development",
+        "category" : "Advertising, Marketing and PR",
+        "companyLocation" : "Australia",
+        "additionalLocation" : "China",
+        "feeagency" : "Apple One"
+    },
+    "invalidValue" : "zzznonexistentxyz"
+}

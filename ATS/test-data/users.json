@@ -1,0 +1,7 @@
+{
+    "users": {
+        "inactive": ["inactive", "Silkroad@2024"],
+        "invalid_username": ["invalid_username1", "Silkroad@1"],
+        "invalid_password": ["valid_username", "invalid_password1"]
+    }
+}

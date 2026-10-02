@@ -1,0 +1,12 @@
+{
+    "portalPath": "playwrightqa/CorporateCareerPortal",
+    "portalId": 2577,
+    "jobId": "171750",
+    "locationComponents": {
+        "city": "Test",
+        "stateCode": "IL",
+        "stateName": "Illinois",
+        "countryCode": "US",
+        "countryName": "United States"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "profile": {
+        "firstName": "CX First",
+        "lastName": "CX Last",
+        "email": "playwrightCX@rival-hr-qa.com",
+        "primaryPhone": "2015551234",
+        "country": "US",
+        "address": "Playwright Address",
+        "postalCode": "12345",
+        "resumeFreeText": "Playwright Resume Free Text",
+        "howDidYouHearAboutUs": "Web Search"
+    },
+    "jobSpecific": {
+        "portalPath": "playwrightqa/CorporateCareerPortal2",
+        "jobId": "173194"
+    },
+    "openSubmission": {
+        "portalPath": "playwrightqa/CorporateCareerPortal2"
+    },
+    "feeAgency": {
+        "portalPath": "playwrightqa/CorporateCareerPortal2/feeagency/C714F7E5-B6A6-4DE9-9659-1DF4A636CE7B",
+        "email": "playwright@rival-hr-qa.com",
+        "jobTitle": "Playwright Fee Agency Job Test"
+    }
+}

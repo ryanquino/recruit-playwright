@@ -1,0 +1,9 @@
+{
+    "search_term_1": "Playwright",
+    "expected_job_1": "Playwright New Job Posting",
+    "search_term_2": "test",
+    "expected_job_2": "Playwright Deactivation Test",
+    "search_term_3": "specific",
+    "expected_job_3": "Specific Playwright Test",
+    "search_term_invalid": "zzzznonexistentjobxyz123"
+}

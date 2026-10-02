@@ -1,0 +1,30 @@
+{
+    "searchFilters": {
+        "status" : "1",
+        "results" : "10",
+        "sort" : "desc"
+    },
+    "feeAgency": {
+            "feeAgencyName" : "Playwright Fee Agency",
+            "address": "Playwright Address",
+            "city": "Playwright City",
+            "stateOrCountry": "US-IL",
+            "postalCode": "6001",
+            "phone": "2015555555",
+            "fax": "123456",
+            "agencyEmail": "playwright@rival-hr-qa.com",
+            "agencyUserFullName": "Playwright Fee Agency",
+            "loginName": "playwright",
+            "password": "playwright",
+            "subscriptionStartDate": "1",
+            "subsciprtionExpirationDate": "31",
+            "dailyResumeSubmissionLimit": "100",
+            "rate": "10",
+            "allowDuplicateCandidateSubmission": "1",
+            "notes": "playwright notes",
+            "status" : "1",
+            "results" : "10",
+            "sort" : "desc"
+    }
+}
+    
